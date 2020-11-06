@@ -1,0 +1,2 @@
+#define HookInit_API __declspec(dllexport)
+#define HookInit_API __declspec(dllimport)

@@ -1,0 +1,11 @@
+﻿  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  dllmain.cpp
+  HookInit.cpp
+  Generating Code...
+     Creating library D:\source\chentiangemalc\WinBatchDecompiler\Debug\DecompileEngine32.lib and object D:\source\chentiangemalc\WinBatchDecompiler\Debug\DecompileEngine32.exp
+  DecompileEngine.vcxproj -> D:\source\chentiangemalc\WinBatchDecompiler\Debug\DecompileEngine32.dll
